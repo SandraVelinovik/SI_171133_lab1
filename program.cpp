@@ -12,5 +12,6 @@ cout<<"1711333"<<endl;	//TODO
 }
 
 int main () {
-	//TODO
+printMyName();
+printMyIndex();	//TODO
 }
