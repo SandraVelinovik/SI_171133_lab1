@@ -1,9 +1,10 @@
+
 #include <iostream>
 #include <cstring>
 using namespace std;
 
 void printMyName () {
-	//TODO
+   cout<<"Sandra Velinovik"<<endl;	//TODO
 }
 
 void printMyIndex () {
